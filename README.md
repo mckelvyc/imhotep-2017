@@ -10,6 +10,6 @@ Middle school students (6th - 8th) will explore the world of electronics, comput
 
 ## Related Links
 
-https://www.facebook.com/events/2167895373434799/
-
-https://pastebin.com/VCtHqPts
+ * https://sciencehouse.ncsu.edu/students/k-12-students/signature-student-program-offerings/imhotep-academy-3/
+ * https://www.facebook.com/events/2167895373434799/
+ * https://pastebin.com/VCtHqPts
